@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi, I'm Imene! 
 
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied Computer Science at the University of Science and Technology Houari Boumediene<br/> 
+🌱 Currently learning about data analytics!<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats →>
+[Magdeline's_github stats](https://github-readme-stats.vercel.app/api?username=xso105&count_private=true&show_icons=true&theme=radical&hide_rank=false)1
+(https://github.com/anuraghazra/github-readme-stats)
 <!--
 **chikamichka/chikamichka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
