@@ -4,7 +4,6 @@
 👩🏻‍🎓 Studied Computer Science at the University of Science and Technology Houari Boumediene<br/> 
 🌱 Currently learning about data analytics!<br/>
 
-![Chikamichka's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikamichka&show_icons=true&theme=tokyonight)
 
 
 ## 🌐 Socials:
